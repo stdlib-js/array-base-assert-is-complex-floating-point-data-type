@@ -54,7 +54,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-floating-point-data-type@deno/mod.js';
+import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-floating-point-data-type@v0.2.0-deno/mod.js';
 ```
 
 #### isComplexFloatingPointDataType( value )
@@ -94,7 +94,7 @@ bool = isComplexFloatingPointDataType( 'uint32' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-floating-point-data-type@deno/mod.js';
+import isComplexFloatingPointDataType from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-assert-is-complex-floating-point-data-type@v0.2.0-deno/mod.js';
 
 var bool = isComplexFloatingPointDataType( 'complex128' );
 // returns true
